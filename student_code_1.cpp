@@ -13,7 +13,7 @@
 //       not print any debug information on 
 //       the screen.
 //    7. Submit your source code 
-//       ("student_code_1.h") on Gradescope.
+//       ("student_code_1.cpp") on Gradescope.
 ///////////////////////////////////////////////
 
 // required libraries
