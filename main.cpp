@@ -114,7 +114,7 @@ int main(int argc, char *argv[])
     ProcessResults(problems, header);
 
     std::cout << "Don't forget to submit your "
-                 "source code on Canvas.";
+                 "source code on Gradescope.";
 
     std::cout << "\nRunning time: ";
     std::cout << header.time << "ms";
