@@ -12,7 +12,7 @@ std::string decrypt(const std::vector<int>& encryptedName, int key),
 which decrypts message `encryptedName` using key `key`. You can assume that the message is decrypted correctly if the resulting string is in the list of restaurants `restaurantList`.
 Please, implement the following function
 ```cpp
-FindKey(const std::vector<int>& encryptedName, int n, const std::string& restaurantList)
+int FindKey(const std::vector<int>& encryptedName, int n, const std::string& restaurantList)
 ```
 Function `FindKey` should return the key that was used by Alice to encode the restaurant name.
 The arguments of the function are as follows:
