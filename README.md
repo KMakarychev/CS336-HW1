@@ -46,4 +46,4 @@ We also recommend that you run memory tests.
 ************************
 ## Submit your code!
 
-After you tested your code, please, submit ``student_code_1.h`` on Gradescope! Make sure that this file does not contain any commented out code. Also, please, check that your code does not print any debug output.
+After you tested your code, please, submit ``student_code_1.cpp`` on Gradescope! Make sure that this file does not contain any commented out code. Also, please, check that your code does not print any debug output.
