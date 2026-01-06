@@ -21,7 +21,7 @@ The arguments of the function are as follows:
 from 0 to _n_);
 * `const std::string& restaurantList` &mdash; the list of restaurants separated by ";".
 
-Your program should be fast! It should pass all tests in no more than 5 seconds.
+Your program should be fast! It should pass all tests in no more than 3 seconds.
 
 ************************
 ## Compile your code!
